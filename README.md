@@ -2,15 +2,21 @@
 
 A new Flutter project.
 
-## Getting Started
+## You can ask AIBOT about the following question. AI BOT is currently under development.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-------------------------------------------
+- who is  AI BOT?
+- Give an introduction to AI BOT
+- introduction about ai bot
+- what is the AI BOT?
+- give intro ai bot
+--------------------------------------------
+- why AI Bot is used?
+- What kind of things can AI BOT do?
+--------------------------------------------
+- What is Toyota car famous for?
+- What makes Toyota the best car?
+- Why is Toyota so important?
+- Why Toyota is most successful?
+- What is the most popular Toyota?
+- Why is it named Toyota?
